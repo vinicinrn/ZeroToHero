@@ -13,5 +13,6 @@ public class Exercicio1EstruturaControle {
         } else {
             System.out.println("Número que você digitou é ÍMPAR!");
         }
+        sc.close();
     }
 }
