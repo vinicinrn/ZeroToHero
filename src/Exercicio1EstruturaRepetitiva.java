@@ -13,5 +13,6 @@ public class Exercicio1EstruturaRepetitiva {
             senha = sc.nextInt();
         }
         System.out.println("Acesso Permitido");
+        sc.close();
     }
 }
