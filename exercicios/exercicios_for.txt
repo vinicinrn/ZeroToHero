@@ -1,0 +1,33 @@
+Soma de Números Pares:
+Escreva um programa que calcule a soma de todos os números pares de 1 a N, onde N é um número fornecido pelo usuário.
+
+Tabuada:
+Crie um programa que exiba a tabuada de multiplicação para um número fornecido pelo usuário (de 1 a 10).
+
+Fatorial:
+Escreva um programa que calcule o fatorial de um número inteiro fornecido pelo usuário usando um loop for.
+
+Imprimir Padrão:
+Escreva um programa que exiba o seguinte padrão na tela:
+
+yaml
+Copy code
+1
+12
+123
+1234
+12345
+Números Primos:
+Crie um programa que verifica se um número fornecido pelo usuário é um número primo.
+
+Sequência de Fibonacci:
+Escreva um programa que imprima os primeiros N termos da sequência de Fibonacci, onde N é um número fornecido pelo usuário.
+
+Contagem de Dígitos:
+Faça um programa que conte o número de dígitos em um número inteiro fornecido pelo usuário.
+
+Múltiplos de 5:
+Escreva um programa que imprima os múltiplos de 5 de 1 a N, onde N é um número fornecido pelo usuário.
+
+Soma de Dígitos:
+Crie um programa que calcule a soma dos dígitos de um número inteiro fornecido pelo usuário.
