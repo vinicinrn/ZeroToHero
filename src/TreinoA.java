@@ -21,7 +21,7 @@ public class TreinoA {
 
         double p = (xA + xB + xC)/2;
         double areaX = Math.sqrt(p*(p-xA)*(p-xB)*(p-xC));
-        double p = (yA + yB + yC)/2;
+         p = (yA + yB + yC)/2;
         double areaY = Math.sqrt(p*(p-yA)*(p-yB)*(p-yC));
 
         System.out.printf("Area do triângulo A: %.2f%n", areaX);
